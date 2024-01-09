@@ -4,7 +4,7 @@
 
     <div class="container pt-5 pb-5">
         <div class="row">
-            <div class="col-9">
+            <div class="col-8">
 
                 <div class="blog__items">
 
@@ -38,7 +38,7 @@
                     </div>
                 </div>
 
-                <div class="col-3">
+                <div class="col-4">
 
                 <?php get_sidebar(); ?>
 
